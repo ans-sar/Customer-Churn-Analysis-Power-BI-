@@ -2,6 +2,8 @@
 
 
 🚀 Telecom Customer Churn Analysis – Insights Through Data Visualisation 📊
+![Screenshot (38)](https://github.com/user-attachments/assets/ab6a1fdb-9bd9-4d4a-99c4-5abfebbdd0ec)
+
 
 Just completed a deep dive into customer churn analysis in the telecom sector! 📡 Using data visualisation, I explored patterns behind customer retention and churn. Key highlights from my analysis:
 
